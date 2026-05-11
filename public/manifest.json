@@ -1,0 +1,16 @@
+{
+  "short_name": "Calculadora",
+  "name": "Calculadora Pro",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "icons": [
+    {
+      "src": "calculadora.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
